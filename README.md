@@ -1,0 +1,2 @@
+# AI-PRACTICALS
+AI Experiments
